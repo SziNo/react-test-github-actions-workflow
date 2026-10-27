@@ -1,4 +1,4 @@
-# React Test Workflow – GitHub Actions gyakorló projekt
+# React Test Workflow – GitHub Actions gyakorló projekt!
 
 ![Test React App](https://github.com/SziNo/react-test-github-actions-workflow/actions/workflows/test.yml/badge.svg)
 
