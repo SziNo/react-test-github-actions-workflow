@@ -21,6 +21,6 @@ describe("App", () => {
     render(<App />);
     const button = screen.getByRole("button", { name: /count is/i });
     fireEvent.click(button);
-    expect(button).toHaveTextContent("Count is 1");
+    expect(button).toHaveTextContent("Count is 2");
   });
 });
